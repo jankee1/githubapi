@@ -20,6 +20,7 @@ java -jar target/<project_name>-<version>.jar
 ## Usage
 
 Each request should be done to the below endpoint
+
 http://localhost:8080/<valid_github_username>
 
 ### Invalid GitHub username
